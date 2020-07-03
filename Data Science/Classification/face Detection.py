@@ -1,0 +1,1 @@
+{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"name":"face Detection.ipynb","provenance":[],"collapsed_sections":[],"authorship_tag":"ABX9TyNWtQdNNQGotHYEzW2bNJtc"},"kernelspec":{"name":"python3","display_name":"Python 3"}},"cells":[{"cell_type":"code","metadata":{"id":"dy8TucQDQS6z","colab_type":"code","colab":{}},"source":[""],"execution_count":0,"outputs":[]}]}
